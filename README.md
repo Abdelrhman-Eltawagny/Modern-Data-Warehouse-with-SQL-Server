@@ -1,6 +1,6 @@
-# Modern-Data-Warehouse-with-SQL-Server
+# Sales Data Warehouse using Medallion Architecture
 
-Welcome to the **Modern-Data-Warehouse-with-SQL-Server** repository.
+Welcome to the **Sales Data Warehouse using Medallion Architecture** repository.
 
 This project demonstrates the implementation of a modern Data Warehouse using SQL Server and the Medallion Architecture approach. Data from CRM and ERP systems is ingested into the Bronze Layer, transformed and validated in the Silver Layer, and prepared for reporting and analytics in the Gold Layer.
 
